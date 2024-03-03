@@ -417,6 +417,7 @@ img {
   border-radius: 0.5rem;
   justify-self: center;
   align-items: center;
+  background-color:  rgb(205, 123, 30);
 }
 
 .about__description {
