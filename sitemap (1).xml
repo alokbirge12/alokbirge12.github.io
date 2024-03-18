@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://alokbirge12.github.io/</loc>
+  <lastmod>2024-03-18T19:02:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://alokbirge12.github.io/Battery-Status/</loc>
+  <lastmod>2023-11-03T18:15:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alokbirge12.github.io/Student-form/</loc>
+  <lastmod>2023-11-10T15:13:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alokbirge12.github.io/Age-calculator/</loc>
+  <lastmod>2023-12-16T16:50:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alokbirge12.github.io/QR-code-generator/</loc>
+  <lastmod>2023-12-30T03:58:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://alokbirge12.github.io/Shivling-Shivacharaya-Maharaj/</loc>
+  <lastmod>2024-03-03T12:58:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
